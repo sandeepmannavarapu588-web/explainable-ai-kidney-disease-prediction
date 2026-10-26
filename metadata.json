@@ -1,0 +1,6 @@
+{
+  "name": "NephroExplain AI - CKD Early Prediction & Ensemble Suite",
+  "description": "Explainable AI platform for early chronic kidney disease prediction using advanced stacking ensemble learning (XGBoost, LightGBM, CatBoost, Random Forest), SHAP waterfall attributions, counterfactual clinical interventions, and KDIGO risk stratification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
